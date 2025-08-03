@@ -1,0 +1,7 @@
+streamlit
+matplotlib
+pandas
+re
+collections
+emoji
+datetime
